@@ -7,5 +7,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Email : shakilhaquepy@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am very lazy because of this  i am find shortcut solution of any problem.
+- ⚡ Fun fact: I am very lazy because of that  i am find shortcut solution of any problem.
 -->`
