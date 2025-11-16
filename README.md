@@ -1,10 +1,4 @@
-## Hi there 👋
-
-
-<<!--
-**shakil-py/shakil-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋, it's me Shakil
 
 - 🔭 I’m currently working on Self Learning
 - 🌱 I’m currently learning Wwb Devlopment
